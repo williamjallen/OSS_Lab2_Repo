@@ -1,0 +1,4 @@
+- William Allen
+- ![me](pfp.jpg)
+- I will be graduating in the spring of 2023
+- I plan to work on Submitty for the project portion of this course
